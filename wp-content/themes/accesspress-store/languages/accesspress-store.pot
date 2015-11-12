@@ -1,0 +1,1250 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: AccessPress Store 1.0.0\n"
+"Report-Msgid-Bugs-To: info@accesspressthemes.com\n"
+"POT-Creation-Date: 2015-01-06 02:24:02+00:00\n"
+"POT-Revision-Date: Fri Aug 14 2015 13:37:18 GMT+0545 (Nepal Standard Time)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: AccessPress Themes <info@accesspressthemes.com>\n"
+"Language-Team: AccessPress Themes Team <info@accesspressthemes.com>\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: ../404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: ../404.php:19
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: ../bloglayoutfour.php:97 ../bloglayoutone.php:98 ../bloglayoutthree.php:97 ..
+#: /bloglayouttwo.php:99 ../content-blog.php:69 ../content.php:24
+msgid "Posted On"
+msgstr ""
+
+#: ../bloglayoutfour.php:99 ../bloglayoutone.php:100 ../bloglayoutthree.php:99 ..
+#: /bloglayouttwo.php:101 ../content-blog.php:71 ../content.php:26
+msgid "at"
+msgstr ""
+
+#: ../bloglayoutfour.php:101 ../bloglayoutone.php:102 ../bloglayoutthree.php:101 .
+#: ./bloglayouttwo.php:103 ../content-blog.php:73 ../content.php:28
+msgid "by"
+msgstr ""
+
+#: ../bloglayoutfour.php:119 ../bloglayoutone.php:120 ../bloglayoutthree.php:119 .
+#: ./bloglayouttwo.php:121 ../content-blog.php:91 ../content.php:41
+msgid "Read More"
+msgstr ""
+
+#: ../bloglayoutfour.php:124 ../bloglayoutone.php:125 ../bloglayoutthree.php:124 .
+#: ./bloglayouttwo.php:126 ../content-blog.php:96 ../content-page.php:25 ..
+#: /content-single.php:23
+msgid "Pages:"
+msgstr ""
+
+#: ../comments.php:28
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../comments.php:35 ../comments.php:56
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:38 ../comments.php:59
+msgid "Older Comments"
+msgstr ""
+
+#: ../comments.php:39 ../comments.php:60
+msgid "Newer Comments"
+msgstr ""
+
+#: ../comments.php:72
+msgid "Comments are closed."
+msgstr ""
+
+#: ../content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: ../content-none.php:19
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../content-page.php:33 ../inc/template-tags.php:126
+msgid "Edit"
+msgstr ""
+
+#: ../footer.php:59
+msgid "Partner Logo 1"
+msgstr ""
+
+#: ../footer.php:63
+msgid "Partner Logo 2"
+msgstr ""
+
+#: ../footer.php:67
+msgid "Partner Logo 3"
+msgstr ""
+
+#: ../footer.php:71
+msgid "Partner Logo 4"
+msgstr ""
+
+#: ../footer.php:75
+msgid "SSL Seal"
+msgstr ""
+
+#: ../footer.php:79
+msgid "Other Seal 1"
+msgstr ""
+
+#: ../footer.php:83
+msgid "Other Seal 2"
+msgstr ""
+
+#: ../footer.php:88
+#, php-format
+msgid "Copyright &copy; 2015 %1$s"
+msgstr ""
+
+#: ../footer.php:88
+msgid "https://accesspressthemes.com"
+msgstr ""
+
+#: ../footer.php:90
+#, php-format
+msgid "Theme: %1$s"
+msgstr ""
+
+#: ../footer.php:90
+msgid "https://wordpress.org"
+msgstr ""
+
+#: ../functions.php:62
+msgid "Primary Menu"
+msgstr ""
+
+#: ../header.php:21
+msgid "Skip to content"
+msgstr ""
+
+#: ../header.php:39
+msgid "Welcome "
+msgstr ""
+
+#: ../header.php:45
+msgid "!"
+msgstr ""
+
+#: ../header.php:84
+msgid " LogOut"
+msgstr ""
+
+#: ../header.php:90
+msgid "LogIn"
+msgstr ""
+
+#: ../header.php:127
+msgid "Menu"
+msgstr ""
+
+#: ../search.php:15
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../searchform.php:8
+msgid "Search products"
+msgstr ""
+
+#: ../inc/accesspress-function.php:10
+msgid "Shop Sidebar"
+msgstr ""
+
+#: ../inc/accesspress-function.php:19
+msgid "Header Call To Box"
+msgstr ""
+
+#: ../inc/accesspress-function.php:29
+msgid "AP: Promo Widget 1"
+msgstr ""
+
+#: ../inc/accesspress-function.php:39
+msgid "AP: Product Listing Widget 1"
+msgstr ""
+
+#: ../inc/accesspress-function.php:49
+msgid "AP: Promo Widget 2"
+msgstr ""
+
+#: ../inc/accesspress-function.php:59
+msgid "AP: Product Listing Widget 2"
+msgstr ""
+
+#: ../inc/accesspress-function.php:69
+msgid "AP: Video Call to Action"
+msgstr ""
+
+#: ../inc/accesspress-function.php:79
+msgid "AP: Product Listing Widget 3"
+msgstr ""
+
+#: ../inc/accesspress-function.php:89
+msgid "AP: Left Sidebar"
+msgstr ""
+
+#: ../inc/accesspress-function.php:99
+msgid "AP: Right Sidebar"
+msgstr ""
+
+#: ../inc/accesspress-function.php:111
+msgid "AP: Promo Widget 3"
+msgstr ""
+
+#: ../inc/accesspress-function.php:121
+msgid "Footer Area 1"
+msgstr ""
+
+#: ../inc/accesspress-function.php:131
+msgid "Footer Area 2"
+msgstr ""
+
+#: ../inc/accesspress-function.php:141
+msgid "Footer Area 3"
+msgstr ""
+
+#: ../inc/accesspress-function.php:151
+msgid "Footer Area 4"
+msgstr ""
+
+#: ../inc/accesspress-function.php:360
+msgid "View your shopping cart"
+msgstr ""
+
+#: ../inc/accesspress-function.php:361
+msgid "Start shopping"
+msgstr ""
+
+#: ../inc/accesspress-function.php:365
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/accesspress-function.php:396
+msgid "CART"
+msgstr ""
+
+#: ../inc/accesspress-function.php:532
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr ""
+
+#: ../inc/accesspress-function.php:553
+msgid "Home"
+msgstr ""
+
+#: ../inc/accesspress-function.php:573
+msgid "Archive by category"
+msgstr ""
+
+#: ../inc/accesspress-function.php:575
+msgid "Search results for"
+msgstr ""
+
+#: ../inc/accesspress-function.php:633
+msgid "Posts tagged"
+msgstr ""
+
+#: ../inc/accesspress-function.php:637
+msgid "Articles posted by "
+msgstr ""
+
+#: ../inc/accesspress-function.php:645
+msgid "Page"
+msgstr ""
+
+#: ../inc/accesspress-sanitizer.php:7
+msgid "Boxed"
+msgstr ""
+
+#: ../inc/accesspress-sanitizer.php:8 ../inc/assets/assets-general-setting.php:236
+msgid "Full Width"
+msgstr ""
+
+#: ../inc/accesspress-sanitizer.php:18 ../inc/assets/assets-pagepost-setting.php:
+#: 103
+msgid "List"
+msgstr ""
+
+#: ../inc/accesspress-sanitizer.php:19 ../inc/assets/assets-pagepost-setting.php:
+#: 104
+msgid "Grid"
+msgstr ""
+
+#: ../inc/accesspress-sanitizer.php:29 ../inc/assets/assets-blog-setting.php:28
+msgid "Blog Image Large"
+msgstr ""
+
+#: ../inc/accesspress-sanitizer.php:30 ../inc/assets/assets-blog-setting.php:29
+msgid "Blog Image Medium"
+msgstr ""
+
+#: ../inc/accesspress-sanitizer.php:31 ../inc/assets/assets-blog-setting.php:30
+msgid "Blog Image Medium Alternate"
+msgstr ""
+
+#: ../inc/accesspress-sanitizer.php:32 ../inc/assets/assets-blog-setting.php:31
+msgid "Blog Full Content"
+msgstr ""
+
+#: ../inc/accesspress-sanitizer.php:42 ../inc/assets/assets-general-setting.php:148
+msgid "Color"
+msgstr ""
+
+#: ../inc/accesspress-sanitizer.php:43 ../inc/assets/assets-general-setting.php:149
+msgid "Image"
+msgstr ""
+
+#: ../inc/accesspress-sanitizer.php:44 ../inc/assets/assets-general-setting.php:150
+msgid "Pattern"
+msgstr ""
+
+#: ../inc/accesspress-sanitizer.php:87 ../inc/assets/assets-slider-setting.php:102
+msgid "Fade"
+msgstr ""
+
+#: ../inc/accesspress-sanitizer.php:88 ../inc/assets/assets-slider-setting.php:103
+msgid "Slide"
+msgstr ""
+
+#: ../inc/accesspress-sanitizer.php:100 ../inc/class/class-custom-switch.php:18
+msgid "Enable"
+msgstr ""
+
+#: ../inc/accesspress-sanitizer.php:101 ../inc/class/class-custom-switch.php:19
+msgid "Disable"
+msgstr ""
+
+#: ../inc/accesspress-sanitizer.php:112 ../inc/class/class-custom-switch.php:37
+msgid "Yes"
+msgstr ""
+
+#: ../inc/accesspress-sanitizer.php:113 ../inc/class/class-custom-switch.php:38
+msgid "No"
+msgstr ""
+
+#: ../inc/custom-metabox.php:17
+msgid "Left sidebar"
+msgstr ""
+
+#: ../inc/custom-metabox.php:22
+msgid "Right sidebar<br/>(default)"
+msgstr ""
+
+#: ../inc/custom-metabox.php:27
+msgid "Both Sidebar"
+msgstr ""
+
+#: ../inc/custom-metabox.php:33
+msgid "No sidebar"
+msgstr ""
+
+#: ../inc/extras.php:52
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr ""
+
+#: ../inc/template-tags.php:27
+msgid "Older posts"
+msgstr ""
+
+#: ../inc/template-tags.php:31
+msgid "Newer posts"
+msgstr ""
+
+#: ../inc/template-tags.php:56
+msgid "Post navigation"
+msgstr ""
+
+#: ../inc/template-tags.php:86
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: ../inc/template-tags.php:91
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: ../inc/template-tags.php:108 ../inc/template-tags.php:114
+msgid ", "
+msgstr ""
+
+#: ../inc/template-tags.php:110
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: ../inc/template-tags.php:116
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: ../inc/template-tags.php:122
+msgid "Leave a comment"
+msgstr ""
+
+#: ../inc/template-tags.php:122
+msgid "1 Comment"
+msgstr ""
+
+#: ../inc/template-tags.php:122
+#, php-format
+msgid "% Comments"
+msgstr ""
+
+#: ../inc/template-tags.php:143
+#, php-format
+msgid "Category: %s"
+msgstr ""
+
+#: ../inc/template-tags.php:145
+#, php-format
+msgid "Tag: %s"
+msgstr ""
+
+#: ../inc/template-tags.php:147
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: ../inc/template-tags.php:149
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: ../inc/template-tags.php:149
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: ../inc/template-tags.php:151
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: ../inc/template-tags.php:151
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: ../inc/template-tags.php:153
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: ../inc/template-tags.php:153
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: ../inc/template-tags.php:156
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr ""
+
+#: ../inc/template-tags.php:158
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr ""
+
+#: ../inc/template-tags.php:160
+msgctxt "post format archive title"
+msgid "Images"
+msgstr ""
+
+#: ../inc/template-tags.php:162
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr ""
+
+#: ../inc/template-tags.php:164
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr ""
+
+#: ../inc/template-tags.php:166
+msgctxt "post format archive title"
+msgid "Links"
+msgstr ""
+
+#: ../inc/template-tags.php:168
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr ""
+
+#: ../inc/template-tags.php:170
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr ""
+
+#: ../inc/template-tags.php:172
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr ""
+
+#: ../inc/template-tags.php:175
+#, php-format
+msgid "Archives: %s"
+msgstr ""
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: ../inc/template-tags.php:179
+#, php-format
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: ../inc/template-tags.php:181
+msgid "Archives"
+msgstr ""
+
+#: ../inc/assets/assets-blog-setting.php:7
+msgid "Blog Settings"
+msgstr ""
+
+#: ../inc/assets/assets-blog-setting.php:25
+msgid "Blog Layout"
+msgstr ""
+
+#: ../inc/assets/assets-general-setting.php:9
+msgid "General Setting"
+msgstr ""
+
+#: ../inc/assets/assets-general-setting.php:10
+msgid "This allows to edit the header"
+msgstr ""
+
+#: ../inc/assets/assets-general-setting.php:16
+msgid "Ticker Setting"
+msgstr ""
+
+#: ../inc/assets/assets-general-setting.php:33
+msgid "Enable Disable Ticker"
+msgstr ""
+
+#: ../inc/assets/assets-general-setting.php:49
+msgid "Ticker Title"
+msgstr ""
+
+#: ../inc/assets/assets-general-setting.php:64
+msgid "Ticker Text 1"
+msgstr ""
+
+#: ../inc/assets/assets-general-setting.php:82
+msgid "Ticker Text2"
+msgstr ""
+
+#: ../inc/assets/assets-general-setting.php:98
+msgid "Ticker Text3"
+msgstr ""
+
+#: ../inc/assets/assets-general-setting.php:115
+msgid "Ticker Text4"
+msgstr ""
+
+#: ../inc/assets/assets-general-setting.php:128
+msgid "Background"
+msgstr ""
+
+#: ../inc/assets/assets-general-setting.php:143
+msgid "Select the Background type"
+msgstr ""
+
+#: ../inc/assets/assets-general-setting.php:144
+msgid "Select the Background type for your website"
+msgstr ""
+
+#: ../inc/assets/assets-general-setting.php:170
+msgid "Background Pattern"
+msgstr ""
+
+#: ../inc/assets/assets-general-setting.php:186
+msgid "Favicon Image"
+msgstr ""
+
+#: ../inc/assets/assets-general-setting.php:204
+msgid "Upload Favicon"
+msgstr ""
+
+#: ../inc/assets/assets-general-setting.php:205
+msgid "Standard Size of Favicon is 40x40px"
+msgstr ""
+
+#: ../inc/assets/assets-general-setting.php:212
+msgid "Layout Setting"
+msgstr ""
+
+#: ../inc/assets/assets-general-setting.php:230
+msgid "Website Layout"
+msgstr ""
+
+#: ../inc/assets/assets-general-setting.php:231
+msgid "Make your website either box layout or full width from click away"
+msgstr ""
+
+#: ../inc/assets/assets-general-setting.php:235
+msgid "Boxed Layout"
+msgstr ""
+
+#: ../inc/assets/assets-general-setting.php:243
+msgid "Responsive Setting"
+msgstr ""
+
+#: ../inc/assets/assets-general-setting.php:262
+msgid "Enable or Disable Responsive Design"
+msgstr ""
+
+#: ../inc/assets/assets-pagepost-setting.php:7
+msgid "Page/Post Settings"
+msgstr ""
+
+#: ../inc/assets/assets-pagepost-setting.php:8
+msgid "If not defined from cutom metabox these settings will be applied."
+msgstr ""
+
+#: ../inc/assets/assets-pagepost-setting.php:28
+msgid "Single Page Layout"
+msgstr ""
+
+#: ../inc/assets/assets-pagepost-setting.php:52
+msgid "Single Post Layout"
+msgstr ""
+
+#: ../inc/assets/assets-pagepost-setting.php:76
+msgid "Archive Page Layout"
+msgstr ""
+
+#: ../inc/assets/assets-pagepost-setting.php:100
+msgid "Archive Page Inner View"
+msgstr ""
+
+#: ../inc/assets/assets-paymentlogo-setting.php:9
+msgid "Payment/Certification Logo Setting"
+msgstr ""
+
+#: ../inc/assets/assets-paymentlogo-setting.php:10
+msgid "This allows to edit the paymentlogo"
+msgstr ""
+
+#: ../inc/assets/assets-paymentlogo-setting.php:17
+msgid "Payment Logo Images"
+msgstr ""
+
+#: ../inc/assets/assets-paymentlogo-setting.php:34
+msgid "Upload Payment Logo 1 Image"
+msgstr ""
+
+#: ../inc/assets/assets-paymentlogo-setting.php:51
+msgid "Upload Payment Logo 2 Image"
+msgstr ""
+
+#: ../inc/assets/assets-paymentlogo-setting.php:68
+msgid "Upload Payment Logo 3 Image"
+msgstr ""
+
+#: ../inc/assets/assets-paymentlogo-setting.php:85
+msgid "Upload Payment Logo 4 Image"
+msgstr ""
+
+#: ../inc/assets/assets-paymentlogo-setting.php:91
+msgid "Other Logo Images"
+msgstr ""
+
+#: ../inc/assets/assets-paymentlogo-setting.php:108
+msgid "Upload SSL Seal Image"
+msgstr ""
+
+#: ../inc/assets/assets-paymentlogo-setting.php:123 ../inc/assets/assets-
+#: paymentlogo-setting.php:138
+msgid "Upload Other Seal 2 Image"
+msgstr ""
+
+#: ../inc/assets/assets-slider-setting.php:9
+msgid "Slider Setting"
+msgstr ""
+
+#: ../inc/assets/assets-slider-setting.php:10
+msgid "This allows to edit the Slider"
+msgstr ""
+
+#: ../inc/assets/assets-slider-setting.php:17
+msgid "Basic Slider Settings"
+msgstr ""
+
+#: ../inc/assets/assets-slider-setting.php:34
+msgid "Show Slider"
+msgstr ""
+
+#: ../inc/assets/assets-slider-setting.php:51
+msgid "Show Pager"
+msgstr ""
+
+#: ../inc/assets/assets-slider-setting.php:68
+msgid "Show Controls"
+msgstr ""
+
+#: ../inc/assets/assets-slider-setting.php:85
+msgid "Auto Transition"
+msgstr ""
+
+#: ../inc/assets/assets-slider-setting.php:99
+msgid "Slider Transitions (Slide/Fade)"
+msgstr ""
+
+#: ../inc/assets/assets-slider-setting.php:118
+msgid "Slider Speed"
+msgstr ""
+
+#: ../inc/assets/assets-slider-setting.php:133
+msgid "Slider Pause"
+msgstr ""
+
+#: ../inc/assets/assets-slider-setting.php:151
+msgid "Show Caption"
+msgstr ""
+
+#: ../inc/assets/assets-slider-setting.php:162
+msgid "Slider 1"
+msgstr ""
+
+#: ../inc/assets/assets-slider-setting.php:171
+msgid "Slider 2"
+msgstr ""
+
+#: ../inc/assets/assets-slider-setting.php:181
+msgid "Slider 3"
+msgstr ""
+
+#: ../inc/assets/assets-slider-setting.php:191
+msgid "Slider 4"
+msgstr ""
+
+#: ../inc/assets/assets-slider-setting.php:200
+msgid "Slider 5"
+msgstr ""
+
+#: ../inc/assets/assets-slider-setting.php:209
+msgid "Select Slider Post"
+msgstr ""
+
+#: ../inc/assets/assets-slider-setting.php:220
+msgid "Select Post For Slider One"
+msgstr ""
+
+#: ../inc/assets/assets-slider-setting.php:238
+msgid "Slider 1 Button Link"
+msgstr ""
+
+#: ../inc/assets/assets-slider-setting.php:253
+msgid "Slider 1 Button Text"
+msgstr ""
+
+#: ../inc/assets/assets-slider-setting.php:264
+msgid "Select Post For Slider Two"
+msgstr ""
+
+#: ../inc/assets/assets-slider-setting.php:281
+msgid "Slider 2 Button Link"
+msgstr ""
+
+#: ../inc/assets/assets-slider-setting.php:296
+msgid "Slider 2 Button Text"
+msgstr ""
+
+#: ../inc/assets/assets-slider-setting.php:308
+msgid "Select Post For Slider Three"
+msgstr ""
+
+#: ../inc/assets/assets-slider-setting.php:325
+msgid "Slider 3 Button Link"
+msgstr ""
+
+#: ../inc/assets/assets-slider-setting.php:340
+msgid "Slider 3 Button Text"
+msgstr ""
+
+#: ../inc/assets/assets-slider-setting.php:352
+msgid "Select Post For Slider Four"
+msgstr ""
+
+#: ../inc/assets/assets-slider-setting.php:369
+msgid "Slider 4 Button Link"
+msgstr ""
+
+#: ../inc/assets/assets-slider-setting.php:384
+msgid "Slider 4 Button Text"
+msgstr ""
+
+#: ../inc/assets/assets-slider-setting.php:395
+msgid "Select Post For Slider Five"
+msgstr ""
+
+#: ../inc/assets/assets-slider-setting.php:412
+msgid "Slider 5 Button Link"
+msgstr ""
+
+#: ../inc/assets/assets-slider-setting.php:427
+msgid "Slider 5 Button Text"
+msgstr ""
+
+#: ../inc/assets/assets-social-setting.php:6
+msgid "Social Icon Setting"
+msgstr ""
+
+#: ../inc/assets/assets-social-setting.php:23
+msgid "Socail Icon Info"
+msgstr ""
+
+#: ../inc/assets/assets-social-setting.php:39
+msgid "Enter the Social Icon Shortcode"
+msgstr ""
+
+#: ../inc/assets/assets-woocommerce-setting.php:9 ../inc/assets/assets-
+#: woocommerce-setting.php:16
+msgid "Woocommerce Setting"
+msgstr ""
+
+#: ../inc/assets/assets-woocommerce-setting.php:32
+msgid "Custom Placeholder"
+msgstr ""
+
+#: ../inc/assets/assets-woocommerce-setting.php:66
+msgid "Hide Header Product Search"
+msgstr ""
+
+#: ../inc/class/class-custom-switch.php:21
+msgid "Check to Enable"
+msgstr ""
+
+#: ../inc/option-framework/includes/class-options-framework-admin.php:91 ..
+#: /inc/option-framework/includes/class-options-framework-admin.php:92
+msgid "Theme Options"
+msgstr ""
+
+#: ../inc/option-framework/includes/class-options-framework-admin.php:192
+msgid "AccessPress Themes"
+msgstr ""
+
+#: ../inc/option-framework/includes/class-options-framework-admin.php:196
+msgid "Follow us for new updates"
+msgstr ""
+
+#: ../inc/option-framework/includes/class-options-framework-admin.php:217
+msgid "Save Options"
+msgstr ""
+
+#: ../inc/option-framework/includes/class-options-framework-admin.php:218
+msgid "Restore Defaults"
+msgstr ""
+
+#: ../inc/option-framework/includes/class-options-framework-admin.php:218
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: ../inc/option-framework/includes/class-options-framework-admin.php:250
+msgid "Default options restored."
+msgstr ""
+
+#: ../inc/option-framework/includes/class-options-framework-admin.php:304
+msgid "Options saved."
+msgstr ""
+
+#: ../inc/option-framework/includes/class-options-media-uploader.php:62 ..
+#: /inc/widgets/widget-fields.php:208
+msgid "No file chosen"
+msgstr ""
+
+#: ../inc/option-framework/includes/class-options-media-uploader.php:65 ..
+#: /inc/option-framework/includes/class-options-media-uploader.php:118 ..
+#: /inc/widgets/widget-fields.php:211 ../inc/widgets/widget-fields.php:800
+msgid "Upload"
+msgstr ""
+
+#: ../inc/option-framework/includes/class-options-media-uploader.php:67 ..
+#: /inc/option-framework/includes/class-options-media-uploader.php:119 ..
+#: /inc/widgets/widget-fields.php:213 ../inc/widgets/widget-fields.php:801
+msgid "Remove"
+msgstr ""
+
+#: ../inc/option-framework/includes/class-options-media-uploader.php:70 ..
+#: /inc/widgets/widget-fields.php:216
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: ../inc/option-framework/includes/class-options-media-uploader.php:94 ..
+#: /inc/widgets/widget-fields.php:235
+msgid "View File"
+msgstr ""
+
+#: ../inc/option-framework/includes/class-options-sanitization.php:352
+msgid "No Repeat"
+msgstr ""
+
+#: ../inc/option-framework/includes/class-options-sanitization.php:353
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: ../inc/option-framework/includes/class-options-sanitization.php:354
+msgid "Repeat Vertically"
+msgstr ""
+
+#: ../inc/option-framework/includes/class-options-sanitization.php:355
+msgid "Repeat All"
+msgstr ""
+
+#: ../inc/option-framework/includes/class-options-sanitization.php:367
+msgid "Top Left"
+msgstr ""
+
+#: ../inc/option-framework/includes/class-options-sanitization.php:368
+msgid "Top Center"
+msgstr ""
+
+#: ../inc/option-framework/includes/class-options-sanitization.php:369
+msgid "Top Right"
+msgstr ""
+
+#: ../inc/option-framework/includes/class-options-sanitization.php:370
+msgid "Middle Left"
+msgstr ""
+
+#: ../inc/option-framework/includes/class-options-sanitization.php:371
+msgid "Middle Center"
+msgstr ""
+
+#: ../inc/option-framework/includes/class-options-sanitization.php:372
+msgid "Middle Right"
+msgstr ""
+
+#: ../inc/option-framework/includes/class-options-sanitization.php:373
+msgid "Bottom Left"
+msgstr ""
+
+#: ../inc/option-framework/includes/class-options-sanitization.php:374
+msgid "Bottom Center"
+msgstr ""
+
+#: ../inc/option-framework/includes/class-options-sanitization.php:375
+msgid "Bottom Right"
+msgstr ""
+
+#: ../inc/option-framework/includes/class-options-sanitization.php:387
+msgid "Scroll Normally"
+msgstr ""
+
+#: ../inc/option-framework/includes/class-options-sanitization.php:388
+msgid "Fixed in Place"
+msgstr ""
+
+#: ../inc/option-framework/includes/class-options-sanitization.php:466
+msgid "Normal"
+msgstr ""
+
+#: ../inc/option-framework/includes/class-options-sanitization.php:467
+msgid "Italic"
+msgstr ""
+
+#: ../inc/option-framework/includes/class-options-sanitization.php:468
+msgid "Bold"
+msgstr ""
+
+#: ../inc/option-framework/includes/class-options-sanitization.php:469
+msgid "Bold Italic"
+msgstr ""
+
+#: ../inc/widgets/widget-cta-simple.php:25
+msgid "A widget that shows Simple Call to Action"
+msgstr ""
+
+#: ../inc/widgets/widget-cta-simple.php:38 ../inc/widgets/widget-cta-video.php:38 
+#: ../inc/widgets/widget-icon-text.php:46 ../inc/widgets/widget-product1.php:69 ..
+#: /inc/widgets/widget-promo.php:38
+msgid "Title"
+msgstr ""
+
+#: ../inc/widgets/widget-cta-simple.php:43 ../inc/widgets/widget-cta-video.php:43
+msgid "Description"
+msgstr ""
+
+#: ../inc/widgets/widget-cta-simple.php:49 ../inc/widgets/widget-cta-video.php:55
+msgid "Button Text"
+msgstr ""
+
+#: ../inc/widgets/widget-cta-simple.php:54
+msgid "Enter Fontawesome Class to show in button"
+msgstr ""
+
+#: ../inc/widgets/widget-cta-simple.php:59 ../inc/widgets/widget-cta-video.php:60
+msgid "Button Url"
+msgstr ""
+
+#: ../inc/widgets/widget-cta-video.php:25
+msgid "A widget that shows Call to Action with Video"
+msgstr ""
+
+#: ../inc/widgets/widget-cta-video.php:49
+msgid "Video Iframe"
+msgstr ""
+
+#: ../inc/widgets/widget-icon-text.php:25
+msgid "A widget that shows Text with Icon"
+msgstr ""
+
+#: ../inc/widgets/widget-icon-text.php:51
+msgid "Content"
+msgstr ""
+
+#: ../inc/widgets/widget-icon-text.php:57
+msgid "Icon"
+msgstr ""
+
+#: ../inc/widgets/widget-icon-text.php:62
+msgid "Read More Text"
+msgstr ""
+
+#: ../inc/widgets/widget-icon-text.php:63
+msgid "Leave Empty not to show"
+msgstr ""
+
+#: ../inc/widgets/widget-icon-text.php:68
+msgid "Read More Link"
+msgstr ""
+
+#: ../inc/widgets/widget-icon-text.php:73
+msgid "Style"
+msgstr ""
+
+#: ../inc/widgets/widget-product1.php:23
+msgid "The Product Slide Choose your type"
+msgstr ""
+
+#: ../inc/widgets/widget-product1.php:35
+msgid "Category"
+msgstr ""
+
+#: ../inc/widgets/widget-product1.php:36
+msgid "Latest Product"
+msgstr ""
+
+#: ../inc/widgets/widget-product1.php:37
+msgid "UpSell Product"
+msgstr ""
+
+#: ../inc/widgets/widget-product1.php:38
+msgid "Feature Product"
+msgstr ""
+
+#: ../inc/widgets/widget-product1.php:39
+msgid "On Sale Product"
+msgstr ""
+
+#: ../inc/widgets/widget-product1.php:75
+msgid "Select Product Type"
+msgstr ""
+
+#: ../inc/widgets/widget-product1.php:82 ../inc/widgets/widget-product2.php:73
+msgid "Select Product Category"
+msgstr ""
+
+#: ../inc/widgets/widget-product1.php:90
+msgid "Select the number of Product to show"
+msgstr ""
+
+#: ../inc/widgets/widget-product1.php:119
+msgid "New!"
+msgstr ""
+
+#: ../inc/widgets/widget-product2.php:23
+msgid ""
+"This widgets show the Category Image its Description and Product of that "
+"Category"
+msgstr ""
+
+#: ../inc/widgets/widget-product2.php:35
+msgid "Right Align With Category Image"
+msgstr ""
+
+#: ../inc/widgets/widget-product2.php:36
+msgid "Left Align With Category Image"
+msgstr ""
+
+#: ../inc/widgets/widget-product2.php:66
+msgid "Select the Display Style (Image Alignment)"
+msgstr ""
+
+#: ../inc/widgets/widget-promo.php:25
+msgid "A widget that Gives Promo of the object"
+msgstr ""
+
+#: ../inc/widgets/widget-promo.php:44
+msgid "Upload Image"
+msgstr ""
+
+#: ../inc/widgets/widget-promo.php:50
+msgid "Enter Promo Desc"
+msgstr ""
+
+#: ../inc/widgets/widget-promo.php:57
+msgid "Enter Promo Button Text"
+msgstr ""
+
+#: ../inc/widgets/widget-promo.php:63
+msgid "Enter Promo Link"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:27
+msgid "Product"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:28
+msgid "Price"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:29
+msgid "Quantity"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:30
+msgid "Total"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:47
+msgid "Remove this item"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:76
+msgid "Available on backorder"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:122
+msgid "Coupon"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:122
+msgid "Coupon code"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:122
+msgid "Apply Coupon"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:128
+msgid "Update Cart"
+msgstr ""
+
+#: ../woocommerce/cart/cross-sells.php:40
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: ../woocommerce/loop/result-count.php:30
+msgid "Showing the single result"
+msgstr ""
+
+#: ../woocommerce/loop/result-count.php:32
+#, php-format
+msgid "Showing all <span class=\"total-products\">%d results</span>"
+msgstr ""
+
+#: ../woocommerce/loop/result-count.php:34
+#, php-format
+msgctxt "%1$d = first, %2$d = last, %3$d = total"
+msgid "Showing %1$d&ndash;%2$d of <span class=\"total-products\">%3$d results</span>"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-account.php:19
+#, php-format
+msgid "Hello <strong>%1$s</strong> (not %1$s? <a href=\"%2$s\">Sign out</a>)."
+msgstr ""
+
+#: ../woocommerce/myaccount/my-account.php:24
+#, php-format
+msgid ""
+"From your account dashboard you can view your recent orders, manage your "
+"shipping and billing addresses and <a href=\"%s\">edit your password and "
+"account details</a>."
+msgstr ""
+
+#: ../woocommerce/single-product/meta.php:26
+msgid "SKU:"
+msgstr ""
+
+#: ../woocommerce/single-product/meta.php:26
+msgid "N/A"
+msgstr ""
+
+#: ../woocommerce/single-product/meta.php:30
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../woocommerce/single-product/meta.php:32
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../woocommerce/single-product/product-image.php:42
+msgid "Placeholder"
+msgstr ""
+
+#: ../woocommerce/single-product/related.php:44
+msgid "Related Products"
+msgstr ""
+
+#: ../woocommerce/single-product/up-sells.php:44
+msgid "You may also like&hellip;"
+msgstr ""

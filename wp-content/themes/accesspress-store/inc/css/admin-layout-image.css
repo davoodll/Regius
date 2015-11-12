@@ -1,0 +1,10 @@
+.ui-button{
+    height: 90px;
+    padding-top: 5px;
+    margin: 2px 0;
+}
+.ui-state-active{
+    background: #fafafa none repeat scroll 0 0;
+    border: 2px solid #999;
+    color: #23282d;
+}
